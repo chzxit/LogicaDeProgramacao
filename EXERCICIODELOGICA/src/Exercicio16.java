@@ -7,7 +7,7 @@ public class Exercicio16 {
 		// distância percorrida e a quantidade de litros utilizados para fazer a viagem.
 		// Fórmula: distância = tempo x velocidade.
 		// litros usados = distância / 12.
-		
+
 		int tempoViagem = 12;
 		int velocidadeMedia = 120;
 		int distancia = tempoViagem * velocidadeMedia;
